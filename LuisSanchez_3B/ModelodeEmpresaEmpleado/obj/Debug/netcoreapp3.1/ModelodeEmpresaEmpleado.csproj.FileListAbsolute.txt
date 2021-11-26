@@ -1,0 +1,28 @@
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.exe
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.deps.json
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.runtimeconfig.json
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.dll
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.pdb
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.AssemblyInfo.cs
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.dll
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.pdb
+C:\Users\usuario\Desktop\PROYECTOS DE POO SUBIR\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.genruntimeconfig.cache
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.exe
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.deps.json
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.runtimeconfig.json
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.dll
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\bin\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.pdb
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.AssemblyInfo.cs
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.dll
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.pdb
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\ModelodeEmpresaEmpleado\obj\Debug\netcoreapp3.1\ModelodeEmpresaEmpleado.genruntimeconfig.cache

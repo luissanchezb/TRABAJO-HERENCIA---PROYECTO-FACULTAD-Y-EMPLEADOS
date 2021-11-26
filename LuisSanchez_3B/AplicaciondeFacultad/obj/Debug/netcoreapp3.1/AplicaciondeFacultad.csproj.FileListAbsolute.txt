@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\bin\Debug\netcoreapp3.1\AplicaciondeFacultad.exe
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\bin\Debug\netcoreapp3.1\AplicaciondeFacultad.deps.json
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\bin\Debug\netcoreapp3.1\AplicaciondeFacultad.runtimeconfig.json
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\bin\Debug\netcoreapp3.1\AplicaciondeFacultad.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\bin\Debug\netcoreapp3.1\AplicaciondeFacultad.dll
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\bin\Debug\netcoreapp3.1\AplicaciondeFacultad.pdb
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\obj\Debug\netcoreapp3.1\AplicaciondeFacultad.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\obj\Debug\netcoreapp3.1\AplicaciondeFacultad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\obj\Debug\netcoreapp3.1\AplicaciondeFacultad.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\obj\Debug\netcoreapp3.1\AplicaciondeFacultad.AssemblyInfo.cs
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\obj\Debug\netcoreapp3.1\AplicaciondeFacultad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\obj\Debug\netcoreapp3.1\AplicaciondeFacultad.dll
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\obj\Debug\netcoreapp3.1\AplicaciondeFacultad.pdb
+C:\Users\usuario\Desktop\SUBIR HOY\LuisSanchez_3B\AplicaciondeFacultad\obj\Debug\netcoreapp3.1\AplicaciondeFacultad.genruntimeconfig.cache
